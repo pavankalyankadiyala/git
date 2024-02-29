@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hi-dev
 ghdfcsjg
 hgs
+=======
+Hi
+>>>>>>> origin/master
